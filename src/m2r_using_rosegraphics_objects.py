@@ -47,12 +47,12 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #
 #          -- Write the names of three METHODs that Circle objects have:
 #                rg.Circle.clone()
-                rg.Circle. attach to
+                 #rg.Circle. attach to
 #          -- Write the names of three INSTANCE VARIABLEs that Circle
 #             objects have:
 #                radius
 #                parameter
-                 center
+                 #center
 #     f. What does a RoseWindow RENDER method do?
 #          That will draw ALL the objects on the window.
 #
